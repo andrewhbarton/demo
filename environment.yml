@@ -1,0 +1,7 @@
+
+name: sample_environment
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy=2.0.1
